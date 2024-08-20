@@ -9,7 +9,7 @@
     float: left;
     height:90px ;
     background-color: black;
-     border-bottom: 1px solid rgb(39, 38, 38);
+    border-bottom: 1px solid rgb(39, 38, 38);
 }
 body{
     margin: 0;
@@ -35,7 +35,7 @@ font-family: sans-serif;
     height:90px ;
     float: right;
     background-color: black;
-     border-bottom: 1px solid rgb(39, 38, 38);
+    border-bottom: 1px solid rgb(39, 38, 38);
 }
 .privacypolicy{
     margin-left: 150px;
@@ -77,7 +77,6 @@ font-family: sans-serif;
 .line2{
     
     background: black;
-    border: 1px solid gray;
     height: 190px;
     width: 100%;
    
